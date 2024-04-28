@@ -2,15 +2,16 @@ import random
 from typing import Union
 
 import numpy as np
+np.float = float    
+np.int = int   #module 'numpy' has no attribute 'int'
+np.object = object    #module 'numpy' has no attribute 'object'
+np.bool = bool    #module 'numpy' has no attribute 'bool'
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torch import Tensor
 import fairseq
-np.float = float    
-np.int = int   #module 'numpy' has no attribute 'int'
-np.object = object    #module 'numpy' has no attribute 'object'
-np.bool = bool    #module 'numpy' has no attribute 'bool'
 
 ___author__ = "Hemlata Tak"
 __email__ = "tak@eurecom.fr"

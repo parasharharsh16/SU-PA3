@@ -162,4 +162,8 @@ cython_debug/
 datasets/Dataset_Speech_Assignment
 fairseq/
 models/Best_LA_model_for_DF.pth
+models/fine_tuned*
 models/xlsr2_300m.pt
+fairseq-a54021305d6b3c4c5959ac9395135f63202db8f1
+datasets/for-2seconds
+wandb/
