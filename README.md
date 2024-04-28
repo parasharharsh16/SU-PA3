@@ -9,7 +9,7 @@ This assignment is intended to submit for Speech Understanding class assignment 
 
 ##Models
 - Pre-Trained Model can be downloaded from 'https://github.com/TakHemlata/SSL_Anti-spoofing'
-- Fine-Tuned Model can be downloaded from ''
+- Fine-Tuned Model can be downloaded from 'https://drive.google.com/file/d/1S4znYpiCDt7bjO-NKWUfqOAyPVxY3fXT/view?usp=sharing'
 
 ## Set Up
 Please put all the dataset folder after unziping into 'dataset' folder and models in 'models' folder.
